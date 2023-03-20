@@ -1,1 +1,1 @@
-# Sociopedia-client
+client
